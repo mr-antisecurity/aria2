@@ -5,7 +5,7 @@ module.exports = Object.freeze({
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //"No need to touch this!" The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: ['yts', 'YTS', 'cruzing.xyz', 'eztv.ag', 'YIFY'], // Prevent downloading from URLs containing these substrings
   ARIA_FILTERED_FILENAMES: ['YIFY'], // Files/top level directories with these substrings in the filename won't be downloaded
-  GDRIVE_PARENT_DIR_ID: 'Drive Folder id here',
+  GDRIVE_PARENT_DIR_ID: '1GJGcH16p94FDe8E7gzkTc6zrI0H8SRg2',
   SUDO_USERS: [464848593, 401643149],	// Telegram user IDs. These users can use the bot in any chat.
   AUTHORIZED_CHATS: [23543, 3535],	// Telegram chat IDs. Anyone in these chats can use the bot.
   DOWNLOAD_NOTIFY_TARGET: {  // Information about the web service to notify on download completion.
