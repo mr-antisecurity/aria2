@@ -10,7 +10,6 @@
   "repository": "https://github.com/mr-antisecurity/aria2",
   "logo": "https://small-sharp-tool.com/logo.svg",
   "success_url": "/welcome",
-  "env": {
   "formation": {
     "web": {
       "quantity": 2,
